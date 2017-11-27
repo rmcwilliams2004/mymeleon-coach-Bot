@@ -1,4 +1,4 @@
-### DISCLAIMER: This framework is released for internal purporse, it is buggy, incompleted and it need a lot of refactoring. It shouldn't be used for production. It is released under Open Source License, do what you prefer at your own risk.
+### DISCLAIMER: This framework is released for internal purporse, it is buggy, incompleted and it need a lot of refactoring. It shouldn't be used for production. It is released under Open Source License,  
 
 # COGIT
 ## A framework to build multiplatform intelligent bots
