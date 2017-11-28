@@ -1,4 +1,4 @@
-### DISCLAIMER: This framework is released for internal purporse, it is buggy, incompleted and it need a lot of refactoring. It shouldn't be used for production. It is released under Open Source License,  
+### DISCLAIMER: This framework is released for internal purporse, it is buggy, incompleted and it need a lot of refactoring. It shouldn't be used for production. It is released under Open Source License,  This is currently set up for a fitness workout and motivation woll have to edit the question and connect to our database . also we need to implement an admin interface to to mannge the settings.py file and tepla
 
 # COGIT
 ## A framework to build multiplatform intelligent bots
@@ -15,11 +15,11 @@ Define user-bot interaction in json files inside the corpora folder with the fol
 - __DB_NAME__ if you want to use the Sqlite ORM specify your db username here.
 - __DB_USER__ if you want to use the Sqlite ORM specify your db username here.
 - __DB_PSW__ if you want to use the Sqlite ORM specify your db password here.
-- __MESSENGER_TOKEN__ your bot's private token for the messenger platform.
-- __MESSENGER_VERIFY_TOKEN__ your bot's verify token for the messenger platform webhook configuration.
-- __ALGORITHM__ the algorithm that will power your bot brain, options are "standard" for full-matching or "probabilistic" for TF/IDF.
-- __PROBA_THRESHOLD__ if you want to use the probabilistic algorithm set the threshold here.
-- __UNDER_MAINTENANCE__ put your bot under maintance, your bot will answer with UNDER_MAINTENANCE_MSG at each user except the DEV.
+- __MESSENGER_TOKEN__  The bot's private token for the messenger platform.
+- __MESSENGER_VERIFY_TOKEN__ The bot's verify token for the messenger platform webhook configuration.
+- __ALGORITHM__ the algorithm that will power the bot brain, options are "standard" for full-matching or "probabilistic" for TF/IDF.
+- __PROBA_THRESHOLD__ if we want to use the probabilistic algorithm set the threshold here. N/A
+- __UNDER_MAINTENANCE__ put the bot under maintance, your bot will answer with UNDER_MAINTENANCE_MSG at each user except the DEV.
 - __UNDER_MAINTENANCE_MSG__ the message shown when the bot is under maintenance.
 - __DEV_ID__ if your bot is under maintenance it can interact only with this user.
 - __PORT__ the port where the bot app will run.
