@@ -1,4 +1,4 @@
-### DISCLAIMER: This framework is released for internal purporse, it is buggy, incompleted and it need a lot of refactoring. It shouldn't be used for production. It is released under Open Source License,  This is currently set up for a fitness workout and motivation woll have to edit the question and connect to our database . also we need to implement an admin interface to to mannge the settings.py file and tepla
+### DISCLAIMER: This framework is released for internal purporse. It is released under Open Source License,  This is currently set up for a fitness workout and motivation woll have to edit the question and connect to our database . also we need to implement an admin interface to to mannge the settings.py file and tepla
 
 # COGIT
 ## A framework to build multiplatform intelligent bots
